@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SocialHubWebApp-react.js/static/css/main.db0b2160.css",
+    "main.js": "/SocialHubWebApp-react.js/static/js/main.c85a14e0.js",
+    "index.html": "/SocialHubWebApp-react.js/index.html",
+    "main.db0b2160.css.map": "/SocialHubWebApp-react.js/static/css/main.db0b2160.css.map",
+    "main.c85a14e0.js.map": "/SocialHubWebApp-react.js/static/js/main.c85a14e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0b2160.css",
+    "static/js/main.c85a14e0.js"
+  ]
+}
